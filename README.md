@@ -1,7 +1,7 @@
 # Projective Transformation and Image Stitching
 
 ## Introduction
-This MATLAB-based project demonstrates the application of projective transformation (Homography) to geometrically rectify and stitch images together, creating a panoramic image mosaic. It encompasses the entire workflow from image acquisition to the final visualization of stitched images.
+This project demonstrates the application of projective transformation (Homography) to geometrically rectify and stitch images together, creating a panoramic image mosaic using MATLAB. It encompasses the entire workflow from image acquisition to the final visualization of stitched images.
 
 ## Features
 - **Image Acquisition**: Captures overlapping images of a planar object.
